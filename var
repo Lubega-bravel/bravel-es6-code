@@ -1,0 +1,21 @@
+// using let
+let allArray = ["jack", "Matthew", "james"];
+
+for(let i = 0; i<allArray.length; i++){
+    console.log(names[i])
+}
+
+// using var
+var x = 2;
+var y = 4;
+
+var result = x * y;
+console.log(result);
+
+//using  const
+
+const r = 2.3;
+const p = 3.14;
+
+const area = r * p * p;
+console.log(area);
